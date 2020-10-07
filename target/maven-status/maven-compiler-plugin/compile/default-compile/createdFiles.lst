@@ -1,0 +1,10 @@
+com/andre/dados/departamento/DepartamentoGateway.class
+com/andre/dados/ConnectionFactory.class
+com/andre/dados/funcionario/FuncionarioGateway.class
+com/andre/dados/participacao/ParticipacaoGateway.class
+com/andre/dados/projeto/ProjetoGateway.class
+com/andre/Main.class
+com/andre/dados/funcionario/Funcionario.class
+com/andre/dados/departamento/Departamento.class
+com/andre/dados/projeto/Projeto.class
+com/andre/dados/participacao/Participacao.class
